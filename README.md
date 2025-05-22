@@ -81,15 +81,6 @@ I'm a dedicated and enthusiastic Computer Science student with hands-on experien
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamikshaAgarwal&show_icons=true&theme=radical" alt="Samiksha's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaAgarwal&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
-
----
-
 ## 🌐 Languages
 
 - English 🇬🇧  
