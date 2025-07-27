@@ -30,10 +30,10 @@ I'm a dedicated and enthusiastic Computer Science student with hands-on experien
 
 ## 💻 Technical Skills
 
-- **Languages:** C, Java, Python, Data Structures & Algorithms  
+- **Languages:** C, Data Structures & Algorithms  
 - **Web:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
 - **Mobile:** Flutter  
-- **Tools:** MySQL, Git, GitHub, VS Code, Android Studio
+- **Tools:** Git, GitHub, VS Code, Android Studio
 
 ---
 
