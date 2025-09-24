@@ -26,7 +26,7 @@ I'm a dedicated and enthusiastic Computer Science student with hands-on experien
 
 | Degree | Institution | Year | Performance |
 |--------|-------------|------|-------------|
-| B.Tech. in Computer Science & Engineering | College of Engineering Roorkee | 2026 (V Sem) | 8.53 CGPA *(Till III Year)* |
+| B.Tech. in Computer Science & Engineering | College of Engineering Roorkee | 2026 *(VI Sem)* | 8.53 CGPA *(Till III Year)* |
 | Class XII (CBSE) | Chandra Shaikhar Sr. Sec. Public School, Roorkee | 2022 | 95.6% |
 | Class X (CBSE) | Chandra Shaikhar Sr. Sec. Public School, Roorkee | 2020 | 96.4% |
 
