@@ -4,14 +4,14 @@
   College of Engineering Roorkee | Roorkee, Uttarakhand, India
 </p>
 <p align="center">
-  🌐 <a href="https://samiksha-agarwal.vercel.app/">Portfolio</a>
+  🌐 <a href="https://samiksha-agarwal.vercel.app/">Portfolio</a> •
   🌐 <a href="https://www.linkedin.com/in/agarwal-samiksha/">LinkedIn</a>
 </p>
 
 
 <p align="center">
   📫 <a href="mailto:samikshaagarwal459@gmail.com">samikshaagarwal459@gmail.com</a> • 
-  📞 +91-6398468436 • 
+  📞 +91-6398468436
 </p>
 
 ---
