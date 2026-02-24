@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Samiksha Agarwal</h1>
 <p align="center">
-  <b>4th Year B.Tech. CSE Student | Flutter & Frontend Developer | Tech Enthusiast</b><br>
+  <b>4th Year(8th Sem) B.Tech. CSE Student | Flutter & Frontend Developer | Tech Enthusiast</b><br>
   College of Engineering Roorkee | Roorkee, Uttarakhand, India
 </p>
 <p align="center">
