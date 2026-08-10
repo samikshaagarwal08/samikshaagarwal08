@@ -44,7 +44,7 @@ I'm a dedicated and enthusiastic Computer Science student with hands-on experien
 ## 💼 Internship Experience
 
 ### 🚀 Frontend Intern – **Ovolo IT Building Solutions Pvt. Ltd.**  
-📆 *Jan 2025 – Present*  
+📆 *Jan 2025 – May 2026*  
 - Developed & optimized UI components with **React** and **Tailwind CSS**  
 - Integrated REST APIs & improved client-side performance  
 
